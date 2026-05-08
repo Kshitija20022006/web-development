@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <name>Kshitija</name>
+        <roll>113</roll>
+        <course>CSE</course>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <name>Part</name>
+        <roll>118</roll>
+        <course>CSE</course>
+        <marks>90</marks>
+    </student>
+
+    <student>
+        <name>Pranoti</name>
+        <roll>103</roll>
+        <course>CSE</course>
+        <marks>72</marks>
+    </student>
+</students>
